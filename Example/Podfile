@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CLDB_Example' do
+  pod 'CLDB', :path => '../'
+
+  target 'CLDB_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module CLDB {
+  umbrella header "CLDB-umbrella.h"
+
+  export *
+  module * { export * }
+}

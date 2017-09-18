@@ -1,0 +1,22 @@
+{
+  "name": "CLDB",
+  "version": "0.1.0",
+  "summary": "A short description of CLDB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lizp1992n@gmail.com/CLDB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizp1992n@gmail.com": "lizp1992n@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lizp1992n@gmail.com/CLDB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CLDB/Classes/**/*"
+}
